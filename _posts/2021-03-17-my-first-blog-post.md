@@ -1,2 +1,4 @@
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+---
+タイトル："あなたのブログ投稿タイトル"
+日付：YYYY-MM-DD 
+---
