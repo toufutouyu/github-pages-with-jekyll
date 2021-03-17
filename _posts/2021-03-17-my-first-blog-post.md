@@ -1,3 +1,2 @@
-title: "waaaaaaaa"
-date: "2021-3-17"
-waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
